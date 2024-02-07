@@ -1,6 +1,5 @@
 
-# Olá, eu sou o Victor Ramalho!  👋  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorRB-PB)
+# Olá, eu sou o Victor Ramalho!  👋  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorRB-PB)
 
 Me chamo Victor, adoro animais, praia, filmes e series.  
 Sobre programação, já atuei em alguns projetos utilizando Java, JavaFX mas o principal foco atual é JavaScript com biblioteca ReactJs.
